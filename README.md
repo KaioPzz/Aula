@@ -1,5 +1,9 @@
 # Aprendendo Github
 Faculdade de Tecnologia de Tatuí
 
-# Discplina
+# Disciplina
 Linguagens de Programação
+
+# Aprendendo Java
+
+# Vai Corinthians!
